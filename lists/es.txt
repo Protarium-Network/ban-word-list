@@ -6,24 +6,18 @@
 #   *word*  -> contains "word"
 ^cabron
 ^cabrón
-^cagada
-^cagar
-^carajo
 ^chinga
 ^chingo
-^chupa
+^chupam
+^chúpam
 ^cojones
 ^cojon
 ^cojón
-^concha
-^cono
 ^coño
 ^culero
-^estaf
 ^estupid
 ^estúpid
-^folla
-^gilipolla
+^gilipoll
 ^gonorrea
 ^huevon
 ^huevón
@@ -32,51 +26,130 @@
 ^imbécil
 ^joder
 ^jodid
-^malparid
+^malpari
 ^mamon
 ^mamón
-^maric
 ^mierda
 ^ojete
+^ogete
 ^pajillero
+^pagillero
 ^pendej
-^perra
 ^pinche
 ^polla
-^puta
-^puto
 ^putis
 ^putís
 ^tarado
 ^tarada
-^tonto
-^tonta
 ^verga
 ^zorra
+^cómeme l
+^comeme l
+^lámeme l
+^lameme l
+^cómeme el
+^comeme el
+^lámeme el
+^lameme el
+^suicid
+^ostias
+^hostias
+^fracasad
+^masturba
+^apollardad
+^panchit
+^frijoler
+^patétic
+^patetic
+^mileurista
 ano
 anos
-culo
-culos
-puta
-puto
-putas
-putos
 alv
 ctm
 hdp
 hdlv
-hp
 lpm
 lptm
 ptm
 vrg
-*chupa polla*
-*chupapollas*
+pringao
+pringado
+pringaa
+pringada
+pringaos
+pringados
+pringaa
+pringaas
+pringadas
+niñorata
+niñarata
+niñoratas
+niñaratas
+niñosrata
+niñasrata
+niños rata
+niñas rata
+impresentable
+impresentables
+incompetente
+incompetentes
+puta
+puto
+putas
+putos
+follar
+follo
+follé
+follado
+marica
+maricas
+maricón
+maricones
+maricona
+mariconas
+mariconazo
+mariconaza
+mariconazos
+mariconazas
+un mariquita
+unos mariquitas
+teta
+tetas
+tetona
+tetonas
+tetón
+teton
+tetones
+gachupin
+gachupín
+moro
+moros
+gabacho
+gabachos
+franchute
+franchutes
+mátate
+matate
 *concha de tu madre*
-*hijo de puta*
-*hija de puta*
-*hijos de puta*
+*hijoputa*
+*hijaputa*
+*hijo de perra*
+*hijoperra*
+*hijos puta*
+*hijosputa*
+*hijasputa*
 *la concha de*
+*la reconcha de*
 *me cago en*
 *vete a la mierda*
 *vete a la verga*
+*retrasado mental*
+*retraso mental*
+*meto una hostia*
+*mete una hostia*
+*meto una ostia*
+*mete una ostia*
+*meto hostia*
+*mete ostia*
+tus muertos$
+al carajo$
